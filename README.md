@@ -1,7 +1,7 @@
-# Heart Disease Prediction System using machine learning
->The aim of this project is to predict heart disease using data mining techniques and machine learning algorithms.This project implements 4 classificiation models using scikit-learn: Logistic Regression, Naïve Bayes, Support Vector Classifier and Decision Tree Model to investigate their performance on heart disease datasets obtained from the UCI data repository.
+# Heart and Kidney Disease Prediction System using machine learning
+>The aim of this project is to predict heart disease using data mining techniques and machine learning algorithms.This project implements 4 classificiation models using scikit-learn: Logistic Regression, Naïve Bayes, Support Vector Classifier,KNN, Nerual Network and Decision Tree Model to investigate their performance on heart and kidney disease datasets obtained from the UCI data repository.
 
-All the machine learning features can be viewed here: [Machine Learning features](predict_risk/machine_learning_models)
+All the machine learning features can be viewed here: [Machine Learning features for Heart](predict_risk/machine_learning_models) and [Machine Learning features for Kidney](predict_risk_1/machine_learning_models)
 
 It supports following features:
 
@@ -9,17 +9,12 @@ It supports following features:
 *	Viewing and Editing Profile 
 *	User can enter the values of various parameters on the basis of which his risk factor will be calculated using machine learning algorithms.
 
-<p align="center">
-<img src="screenshots/About us.png" width="70%" height="70%" />
-</p>
+
 
 <p align="center">
 <img src="screenshots/Login.png" width="70%" height="70%" />
 </p>
 
-<p align="center">
- <img src="screenshots/Signup.png" width="70%" height="70%" />
- </p>
  
  <p align="center">
   <img src="screenshots/prediction_page_filled.png" width="70%" height="70%" />
