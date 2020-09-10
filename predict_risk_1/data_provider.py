@@ -1,6 +1,6 @@
 import os
 import pickle
-from sklearn.externals import joblib
+import joblib
 
 config = {
     'Kidney': {
