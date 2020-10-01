@@ -7,7 +7,7 @@ It supports following features:
 
 *	Login/ Sign Up 
 *	Viewing and Editing Profile 
-*	User can enter the values of various parameters on the basis of which his risk factor will be calculated using machine learning algorithms.
+*	User can enter the values of various parameters on the basis of which his/her risk factor will be calculated using machine learning algorithms.
 
 
 
