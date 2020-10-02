@@ -6,7 +6,7 @@ All the machine learning features can be viewed here: [Machine Learning features
 It supports following features:
 
 *	Login/ Sign Up 
-*	Viewing and Editing Profile 
+*	Viewing and Editing Profile.
 *	User can enter the values of various parameters on the basis of which his risk factor will be calculated using machine learning algorithms.
 
 
