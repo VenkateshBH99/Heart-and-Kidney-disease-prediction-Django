@@ -19,7 +19,7 @@ config = {
 
     }}
 
-dir = os.path.dirname('/Users/venkateshbh/desktop/17IT248/5/wta/Heart-disease-prediction-master 2/predict_risk_1/')
+dir = os.getcwd()+'/predict_risk_1/'
 
 def GetJobLibFile(filepath):
     if os.path.isfile(os.path.join(dir, filepath)):
